@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pablo Mujica&#39;s technical blog</title>
+    <link>http://pablomujica.tech/</link>
+    <description>Recent content on Pablo Mujica&#39;s technical blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Oct 2022 21:51:43 -0300</lastBuildDate><atom:link href="http://pablomujica.tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GSudo - Elevate your current PowerShell Session, and use it in the automation of your daily tasks</title>
+      <link>http://pablomujica.tech/posts/gsudo/</link>
+      <pubDate>Mon, 10 Oct 2022 21:51:43 -0300</pubDate>
+      
+      <guid>http://pablomujica.tech/posts/gsudo/</guid>
+      <description>https://github.com/gerardog/gsudo Gsudo its a good alternative for the missing easy way to elevate the current console line in #Windows.
+You can elevate scripts or commands that require admin permissions. An important cabiat its that it returns are just strings, so you need to convert the text to the appropriate types that you want to use.
+Install using Chocolatey The most simple way of installing GSudo is via Chocolatey, a packet manager similar to Brew that enables a simple straightforward forward to install the software you need in windows, the same way that its been for years in other OS&amp;rsquo;s.</description>
+    </item>
+    
+    <item>
+      <title>Adding Custom Functions to Your Default PowerShell Terminal</title>
+      <link>http://pablomujica.tech/posts/custom_profile/</link>
+      <pubDate>Mon, 10 Oct 2022 21:44:31 -0300</pubDate>
+      
+      <guid>http://pablomujica.tech/posts/custom_profile/</guid>
+      <description>Introduction The idea of this article is to help with the management of custom functions for your daily tasks
+I&amp;rsquo;ll like to clarify that this is my personally preferred way to do this, it can be unnecessarily overcomplicated to some, but in the way that I tackle it, it makes the most sense for my workflow.
+Creation of the file The first thing you have to do is create a base file, the $Profile file does not exists by default(an error by Microsoft IMO), so to create it you can do it with the command:</description>
+    </item>
+    
+  </channel>
+</rss>
