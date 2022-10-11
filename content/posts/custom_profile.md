@@ -1,5 +1,5 @@
 ---
-title: "Adding Custom Functions to Your Default PowerShell Terminal"
+title: "PowerShell $Profile file - Adding Custom Functions to Your Default PowerShell Terminal"
 date: 2022-10-10T21:44:31-03:00
 draft: false
 ---
