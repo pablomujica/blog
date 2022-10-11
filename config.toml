@@ -39,8 +39,7 @@ weight = 3
 
 [params]
 
-  colortheme = "dark"
-
+  colortheme = "custom"
   rss = true
   description = "This is a compilation of article I've wrote as a reference of my work as an Azure Sysadmin. Hope it helps you in your Administration task as much as it did to me 🙂"
   mainSection = "posts"
