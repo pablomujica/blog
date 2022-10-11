@@ -1,7 +1,7 @@
 ---
 title: "GSudo - Elevate your current PowerShell Session, and use it in the automation of your daily tasks"
 date: 2022-10-10T21:51:43-03:00
-draft: true
+draft: false
 ---
 
 # https://github.com/gerardog/gsudo
