@@ -41,6 +41,19 @@ weight = 3
 
   colortheme = "custom"
   rss = true
-  description = "This is a compilation of article I've wrote as a reference of my work as an Azure Sysadmin. Hope it helps you in your Administration task as much as it did to me 🙂"
+  description = "This is a compilation of article I've wrote as a reference of my work as an Azure Sysadmin. Hope it helps you in your Administration tasks as much as it did to me 🙂"
   mainSection = "posts"
-  mainSectionTitle = "List of articles"
+  mainSectionTitle = "Articles"
+
+
+[[params.social]]
+  name = "github"
+  link = "https://github.com/pablomujica"
+
+[[params.social]]
+  name = "email"
+  link = "pablomr311@gmail.com"
+
+[[params.social]]
+  name = "linkedin"
+  link = "www.linkedin.com/in/pablo-mujica-b690a9b5"
