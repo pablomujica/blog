@@ -1,0 +1,47 @@
+baseURL = 'http://pablomujica.tech/'
+languageCode = 'en-us'
+title = "Pablo Mujica's technical blog"
+
+
+theme = "cactus"
+
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 4
+    ordered = false
+    startLevel = 2
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = false
+    noClasses = true
+    style = "dracula"
+    tabWidth = 4
+
+[params]
+
+  colortheme = "dark"
+
+  rss = true
+  description = "This is a compilation of article I've wrote as a reference of my work as an Azure Sysadmin. Hope it helps you in your Administration task as much as it did to me 🙂"
+  mainSection = "posts"
+  mainSectionTitle = "List of articles"
