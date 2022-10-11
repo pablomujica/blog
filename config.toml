@@ -1,4 +1,4 @@
-baseURL = 'http://www.pablomujica.tech/'
+baseURL = 'https://www.pablomujica.tech/'
 languageCode = 'en-us'
 title = "Pablo Mujica's technical blog"
 
